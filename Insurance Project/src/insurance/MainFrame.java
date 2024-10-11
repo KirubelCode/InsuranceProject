@@ -1,3 +1,8 @@
+
+// Prepared by: Kirubel Temesgen
+// Purpose: This system acts as an Insurance policy, 1 Allowing the crud operations on customer details
+// Technologies used: Java, Java GUI, MYSQL
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
