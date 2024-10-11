@@ -1,0 +1,1 @@
+To run, enter dist folder, paste path into cmd and run the Insurance.jar file
